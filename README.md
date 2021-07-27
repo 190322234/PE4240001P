@@ -11,3 +11,5 @@ https://youtu.be/jd02h0X_6-w (stack and queue)
 https://youtu.be/CRZ2-eVHl1w (List and graph)
 
 https://youtu.be/QO3KVvssYL4 (Recursion)
+
+https://youtu.be/0k1AY-lLmmg (greedy)
