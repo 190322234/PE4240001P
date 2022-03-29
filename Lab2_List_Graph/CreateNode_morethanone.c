@@ -14,11 +14,11 @@ int main(void)
     head = NewNode( );     
     temp = head;           
    
-    printf("Input data¡G");
+    printf("Input dataÂ¡G");
     scanf("%d",&head->data);
     for(i=1;i<=4;i++) 
     {
-      printf("Input %d data¡G",i+1);
+      printf("Input %d dataÂ¡G",i+1);
       temp->link = NewNode( );  
       scanf("%d",&temp->link->data);
       temp = temp->link;
@@ -49,7 +49,7 @@ NODE *NewNode(void)
 void PrintLists(NODE* head)  
 {
   NODE *temp=head;
-  printf("Linked list content is¡G");        
+  printf("Linked list content isÂ¡G");        
   while(temp != NULL)
   {
     printf("%d ",temp->data);
@@ -57,3 +57,4 @@ void PrintLists(NODE* head)
   }
   printf("\n");
 }
+
